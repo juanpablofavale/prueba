@@ -14,5 +14,6 @@ header{
 }
 
 main{
-    color: white;
+    color: red;
+    background-color: rgb(156, 156, 156);
 }
